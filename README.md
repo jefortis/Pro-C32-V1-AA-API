@@ -1,2 +1,1 @@
-# Pro-C32-V1-AA-API
-Pro C32 V1 AA
+# AngryBirdsStage7
